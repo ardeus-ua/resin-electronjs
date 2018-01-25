@@ -1,5 +1,5 @@
 {
-  "name": "resin-electronjs",
+  "name": "ha-electronjs-kiosk",
   "version": "0.2.0",
   "description": "electronJS-based resin application",
   "main": "main.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/resin-io/resin-electronjs.git"
+    "url": "git+https://github.com/ardeus-ua/resin-electronjs.git"
   },
   "keywords": [
     "resin",
@@ -22,13 +22,7 @@
     "electron": "^1.4.15",
     "electron-rebuild": "^1.5.7"
   },
-  "author": "Carlo Maria Curinga",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/resin-io/resin-electronjs/issues"
-  },
-  "homepage": "https://github.com/resin-io/resin-electronjs#readme",
-  "jshintConfig": {
+   "jshintConfig": {
     "esversion": 6,
     "strict": true
   },
